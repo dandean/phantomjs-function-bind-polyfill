@@ -1,0 +1,23 @@
+{
+  "name": "phantomjs-function-bind-polyfill",
+  "version": "1.0.0",
+  "description": "Spec-compliant Function.prototype.bind polyfill for for PhantomJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandean/phantomjs-function-bind-polyfill.git"
+  },
+  "keywords": [
+    "phantomjs",
+    "polyfill",
+    "bind",
+    "babel",
+    "browser"
+  ],
+  "author": "Dan Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dandean/phantomjs-function-bind-polyfill/issues"
+  },
+  "homepage": "https://github.com/dandean/phantomjs-function-bind-polyfill#readme"
+}
