@@ -1,4 +1,4 @@
-# Spec-compliant `Function.prototype.bind` polyfill for for PhantomJS
+# Spec-compliant `Function.prototype.bind` polyfill for PhantomJS
 
 The Mozilla `Function.prototype.bind` polyfill results in a failure during
 Babel's `_classCallCheck` with this message:
